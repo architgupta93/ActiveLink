@@ -11,3 +11,8 @@ I recommend using some kind of virtual environment for installing ActiveLink (co
 
 ## User guide
 As is, ActiveLink is only compatible with SpikeGadgets supplied software [Trodes](https://spikegadgets.com/trodes/).
+From the commandline, run
+
+    $ python -O ActiveLink.py
+
+This should open the main window for ![ActiveLink](OpeningScreen.png)
