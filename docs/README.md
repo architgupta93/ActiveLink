@@ -15,4 +15,5 @@ From the commandline, run
 
     $ python -O ActiveLink.py
 
-This should open the main window for ![ActiveLink](OpeningScreen.png)
+This should open the main window.
+![ActiveLink](OpeningScreen.png)
